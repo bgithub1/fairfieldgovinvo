@@ -1438,7 +1438,7 @@ Wynn Wood Drive A 1-999999 004-33Stratfield School
 Yarrow Road A 1-999999 007-33Holland Hill School
 York Road A 1-999999 006-33McKinley School
 Youngstown Road A 10-116 006-33McKinley School
-Youngstown Road 145-148A 003-32Fairfield Woods Middle School
+Youngstown Road A 145-148 003-32Fairfield Woods Middle School
 STREET LIST - TOWN OF FAIRFIELD
 SELECTION CRITERIA
 Congressional : 004
