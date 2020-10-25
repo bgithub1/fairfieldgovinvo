@@ -1,0 +1,48 @@
+level,position,name,party
+Leadership,Moderator, 	Karen Wackerman ,D 
+Leadership,Deputy Moderator,	Mark McDermott ,D
+Leadership,Majority Leader,	Jill Vergara ,D
+Leadership,Deputy Majority Leader, 	Sharon Pistilli ,D
+Leadership,Minority Leader,	Pamela Iacono ,R
+Leadership,Deputy Minority Leader,	Jeff Steele ,R
+District 1,,Amy Ruggerio ,R 	arkrsr214@gmail.com
+District 1,,Michael Mahoney ,R	mikemahoney4fairfield@gmail.com
+District 1,,Veronica Monahan ,R	veronicabarrymonahan@gmail.com
+District 1,,Amy O'Shea ,R	amymoshea@icloud.com
+District 2,,Bill Gerber ,D	gerber_william@yahoo.com 
+District 2,,Karen McCormack ,R	mccormackrtm2@gmail.com 
+District 2,,Cynthia Perham ,D 	cindyperhamrtm2@gmail.com 
+District 2,,Jeff Steele ,R	jrsteele@optonline.net
+District 3,,Alex Durrell ,R	alex_durrell@hotmail.com
+District 3,,Matt Jacobs ,D	mattjacobsct@gmail.com 
+District 3,,Scott Nickel ,D 	scotnickel398@gmail.com 
+District 3,,Sharon Pistilli ,D 	sbpistilli@optonline.net 
+District 4,,Laura Karson ,D	laurarkarson@gmail.com
+District 4,,Alice Kelly ,D	akelly.rtm4@gmail.com
+District 4,,Meredith Odinak ,D	mereditheve89@gmail.com
+District 4,,Marcy Spolyar ,D	Marcy.Spolyar@gmail.com
+District 5,,Josh Garskof ,D	jgrtm5@gmail.com
+District 5,,Julie Gottlieb ,D 	juliertm5@gmail.com 
+District 5,,Joe Siebert ,D	joe.siebert10@gmail.com
+District 5,,Jay Wolk ,D 	jgwolkrtm6@gmail.com 
+District 6,,Matthew Ambrose ,D	Mattcambrose@outlook.com 
+District 6,,Tameisha Powell-Dunmore ,D	tameishapowell@yahoo.com
+District 6,,Hannah Gale ,D	hgale9@optonline.net
+District 6,,Lisa Havey ,D 	lisahaveyd6@gmail.com
+District 7,,Lauren Bishop Bove ,D 	LaurenRTM7@gmail.com 
+District 7,,Mark McDermott ,D	markmcdrtm7@gmail.com 
+District 7,,Jill Vergara ,D	jillvergara@gmail.com
+District 7,,Karen Wackerman ,D 	karenrtm7@gmail.com 
+District 8,,Hank Ference ,R 	hankrtm8@gmail.com
+District 8,,Pamela C. Iacono ,R	pamelaiacono4fairfield@gmail.com
+District 8,,Christine Messina ,R 	christinemessina54@gmail.com
+District 8,,Peter Tallman ,R	tallmanrtm8@gmail.com
+District 9,,Rick Grauer ,R 	rickgrauer@keenecribs.com
+District 9,,Dru Mercer Georgiadis ,D	dru.georgiadis@gmail.com
+District 9,,Crissy Kelly ,R 	crissykelly@mac.com
+District 9,,Bill Perugini ,R	wjp10rtm@snet.net
+District 10,,Janine Alianiello ,R	jmalianiello@gmail.com
+District 10,,Elizabeth Altobelli ,R	elizaltobellirtm@gmail.com
+District 10,,Frank Petise ,R	frank.petise@gmail.com
+District 10,,Marisa Ringel ,R	marisaringelrtm@gmail.com
+   
